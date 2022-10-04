@@ -1,0 +1,17 @@
+create a new repo on Github
+name the repo TKH-choose-adventure
+select add README.md > create repository 
+clone your repo into your local TKH/week4 folder on your computer 
+open TKH-choose-adventure folder in VS Code 
+inside TKH-choose-adventure:
+create an index.html file 
+create a adventure.js file 
+link adventure.js to index.html using script tag 
+open index.html in your browser using the VS Code Live Server extension
+in adventure.js use prompts to offer the user choices between 2 things and save the value the user enters to a variable 
+use if/else statements to make different alert messages based on the user's choices
+use nested if/else statements 
+use .toLowerCase() on user's input 
+ensure the user makes 3 choices 
+display a unique message based on the users 3 choices. There should be 8 unique messages. 
+see attached video for sample output 
